@@ -18,6 +18,7 @@ Um **mini-sistema completo em Python** para gerenciar o inventário de uma loja 
 - Exibe os produtos em uma lista (`Treeview`).  
 - Possui campos de formulário para **Nome**, **Tamanho**, **Preço** e um **Combobox** para selecionar a Categoria (carregada do banco de dados).  
 - Exibe **mensagens de sucesso/erro** em uma barra de status.
+<img width="959" height="630" alt="image" src="https://github.com/user-attachments/assets/6ab94e7a-557b-4e00-b46d-93c32bf76f0f" />
 
 ---
 
