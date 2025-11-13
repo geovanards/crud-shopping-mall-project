@@ -32,11 +32,3 @@ Um **mini-sistema completo em Python** para gerenciar o inventário de uma loja 
 - Geovana Rodrigues
 - Taís Döring
 
----
-
-### 📦 Instalação das Dependências
-
-Abra o terminal na pasta do projeto e execute:
-
-```bash
-pip install -r requirements.txt
