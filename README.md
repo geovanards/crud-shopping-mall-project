@@ -19,6 +19,10 @@ Um **mini-sistema completo em Python** para gerenciar o inventário de uma loja 
 - Possui campos de formulário para **Nome**, **Tamanho**, **Preço** e um **Combobox** para selecionar a Categoria (carregada do banco de dados).  
 - Exibe **mensagens de sucesso/erro** em uma barra de status.
 <img width="959" height="630" alt="image" src="https://github.com/user-attachments/assets/6ab94e7a-557b-4e00-b46d-93c32bf76f0f" />
+<img width="442" height="425" alt="image" src="https://github.com/user-attachments/assets/3218ad0d-d3bd-469a-a794-30594226368c" />
+
+<img width="485" height="347" alt="image" src="https://github.com/user-attachments/assets/6c07588d-ba4b-483c-8f1f-a2ac2475763d" />
+
 
 ---
 
@@ -32,3 +36,15 @@ Um **mini-sistema completo em Python** para gerenciar o inventário de uma loja 
 - Geovana Rodrigues
 - Taís Döring
 
+---
+# Projeto Flask API
+
+Este é um projeto simples utilizando Flask para criar uma API. Siga as instruções abaixo para configurar e rodar o projeto em sua máquina local.
+
+## Requisitos
+
+Antes de rodar o projeto, você precisa ter o Python e o `pip` instalados. Você pode verificar se o Python está instalado executando:
+
+```bash
+pip install flask
+python api.py
